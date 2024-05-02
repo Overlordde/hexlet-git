@@ -1,1 +1,1 @@
-console.log('Тест системы');
+console.log('Тест системы');console.log('Тест системы');console.log('Тест системы');
